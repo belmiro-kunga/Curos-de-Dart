@@ -1,9 +1,16 @@
 void main() {
-  var numero = 52; // declaração de uma variavel
-  print(numero);
-  /********
-  print(numero);
-    print(numero);
-  */
-  
+ // print("Olá mundo");
+
+/* 
+ print("1 Olá mundo");
+ print("2 Olá mundo");
+  print("2 Olá mundo");
+   print("2 Olá mundo");
+*/
+/// este é um codigo de ola mundo
+
+print("1 Olá mundo");
+print("2 Olá mundo");
+print("2 Olá mundo");
+print("2 Olá mundo");
 }

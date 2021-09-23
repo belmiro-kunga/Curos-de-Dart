@@ -1,14 +1,16 @@
-//Operadores Lógicos
+//Operadores Lógicos no programa
 void main() {
-  //&& e
-  // || ou
-  // ! negaçao
+  int a = 5;
+  int b = 7;
 
-  print((41 < 42) && (42 < 43));
+  bool c = a > 10 && b < 10;
+  print(c);
 
-  print((44 < 42) || (42 < 43));
+ bool d = a > 10 || b < 10;
+ print(d);
 
-  print(!(44 < 42));
+  bool e = !(a > 10);
+ print(d);
 
 
 }
