@@ -39,5 +39,5 @@ void main() {
     print(f.nome);
   }
 
-  frutas.
+  
 }
